@@ -6,7 +6,7 @@ MERN Stack Developer
 
 Interested in learning new technologies and highly enthusiastic about open source.
 
-- 🌍 I'm based in Banglore
+- 🌍 I'm based in Bangalore
 - 🧠 I'm learning AWS, Turborepo, NextJs, Docker, GraphQL
 - 🤝 I'm open to collaborating on Interesting Projects
 
